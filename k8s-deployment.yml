@@ -1,6 +1,6 @@
 ---
 apiVersion: apps/v1
-kind: Deployment                 # Type of Kubernetes resource
+kind: Deployment                 # Type of Kubernetes resourc
 metadata:
   name: go-hello-world           # Name of the Kubernetes resource
 spec:
